@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Looking for SOLID in VMPROTECT"
+title:  "Looking for SOLID in VMPROTECT v0.3"
 date:   2021-05-27 19:40:00 +0000
 categories: Dev
 ---
